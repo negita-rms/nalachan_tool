@@ -1,0 +1,8 @@
+# .tbls.yml
+
+# DSN (Database Source Name) to connect database
+dsn: mysql://nalachan:MyPassword!!@127.0.0.1:3306/nalachan_development
+
+# Path to generate document
+# Default is `dbdoc`
+docPath: doc/schema
